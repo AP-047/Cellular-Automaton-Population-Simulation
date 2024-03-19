@@ -18,4 +18,3 @@ This simulation models the evolution of a population based on cellular automata,
 
 ## Usage
 - The repository includes comprehensive scripts and a Unity project setup.
-- A step-by-step guide is provided for running the simulation and interpreting the results.
