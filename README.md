@@ -16,6 +16,3 @@ This simulation models the evolution of a population based on cellular automata,
 ## Technologies
 - **C#**: For algorithm development and state management.
 - **Unity**: For rendering the simulation and enabling interactive exploration.
-
-## Usage
-- The repository includes comprehensive scripts and a Unity project setup.
