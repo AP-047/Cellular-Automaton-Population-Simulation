@@ -1,4 +1,5 @@
 # Cellular Automaton Population Simulation
+![eqn](./assets/images/Pattern.png)
 
 ## Introduction
 This simulation models the evolution of a population based on cellular automata, visualized through Unity. Adhering to Moore's Neighborhood rules, this project dynamically demonstrates the transitions between generations of cells.
